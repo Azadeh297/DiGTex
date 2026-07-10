@@ -31,10 +31,15 @@ python llm1_1.py 'cora' 'Llama3:8b' 'Minimalist'
 ```
 python llm1_2.py 'cora' 'Llama3:8b' path_pseudo_Label
 ```
-## Training and then save embeddings for BiGTex and ogbn-arxiv
+## step4: calculate Alpha and find S*
 
 ```
-python main.py 'arxiv' 'BiGTex'
+python Alpha.py 'cora' 
+```
+## Final step: Apply DS and train GNN
+
+```
+python main.py 'cora' --Model 'DiGTex' --GNN 'GCN' --LLM 'Llama3:8b'
 ```
 
 
