@@ -1,0 +1,2709 @@
+id,result,label
+0,3. Probabilistic Methods,3
+1,Neural Networks,2
+2,Probabilistic Methods,3
+3,1. Genetic Algorithms,1
+4,Neural Networks,2
+5,Neural Networks,2
+6,Case Based,0
+7,Probabilistic Methods,3
+8,3. Probabilistic Methods,3
+9,Neural Networks,2
+10,Genetic Algorithms,1
+11,Probabilistic Methods,3
+12,Reinforcement Learning,4
+13,3. Probabilistic Methods,3
+14,3. Probabilistic Methods,3
+15,Probabilistic Methods,3
+16,2. Neural Networks,2
+17,3. Probabilistic Methods,3
+18,Genetic Algorithms,1
+19,Probabilistic Methods,3
+20,Neural Networks,2
+21,3. Probabilistic Methods,3
+22,Reinforcement Learning,4
+23,Neural Networks,2
+24,Neural Networks,2
+25,Neural Networks,2
+26,Theory,6
+27,Probabilistic Methods,3
+28,Neural Networks,2
+29,4. Reinforcement Learning,4
+30,Neural Networks,2
+31,1. Genetic Algorithms,1
+32,Case Based,0
+33,3. Probabilistic Methods,3
+34,Neural Networks,2
+35,Rule Learning,5
+36,Genetic Algorithms,1
+37,Probabilistic Methods,3
+38,3. Probabilistic Methods,3
+39,4. Reinforcement Learning,4
+40,3. Probabilistic Methods,3
+41,Genetic Algorithms,1
+42,6,6
+43,4. Reinforcement Learning,4
+44,3. Probabilistic Methods,3
+45,3. Probabilistic Methods,3
+46,Neural Networks,2
+47,5. Rule Learning,5
+48,3. Probabilistic Methods,3
+49,Reinforcement Learning,4
+50,5. Rule Learning,5
+51,Probabilistic Methods,3
+52,Case Based,0
+53,Neural Networks,2
+54,Probabilistic Methods,3
+55,Reinforcement Learning,4
+56,Theory,6
+57,Case Based,0
+58,Neural Networks,2
+59,Neural Networks,2
+60,Reinforcement Learning,4
+61,3,3
+62,Case Based,0
+63,Reinforcement Learning,4
+64,Neural Networks,2
+65,Reinforcement Learning,4
+66,1. Genetic Algorithms,1
+67,5. Rule Learning,5
+68,Neural Networks,2
+69,Case Based,0
+70,Rule Learning,5
+71,Neural Networks,2
+72,Neural Networks,2
+73,Neural Networks,2
+74,Case Based,0
+75,4. Reinforcement Learning,4
+76,Case Based,0
+77,Neural Networks,2
+78,Probabilistic Methods,3
+79,3. Probabilistic Methods,3
+80,Case Based,0
+81,Case Based,0
+82,4. Reinforcement Learning,4
+83,Neural Networks,2
+84,4,4
+85,Genetic Algorithms,1
+86,Reinforcement Learning,4
+87,4. Reinforcement Learning,4
+88,Reinforcement Learning,4
+89,4. Reinforcement Learning,4
+90,Neural Networks,2
+91,Reinforcement Learning,4
+92,Theory,6
+93,Theory,6
+94,Reinforcement Learning,4
+95,Case Based,0
+96,Theory,6
+97,Rule Learning,5
+98,1,1
+99,Theory,6
+100,Case Based,0
+101,Neural Networks,2
+102,3. Probabilistic Methods,3
+103,Genetic Algorithms,1
+104,Genetic Algorithms,1
+105,Neural Networks,2
+106,Theory,6
+107,5. Rule Learning,5
+108,6,6
+109,Neural Networks,2
+110,2. Neural Networks,2
+111,Neural Networks,2
+112,1. Genetic Algorithms,1
+113,5. Rule Learning,5
+114,5. Rule Learning,5
+115,Rule Learning,5
+116,Theory,6
+117,5. Rule Learning,5
+118,Genetic Algorithms,1
+119,5. Rule Learning,5
+120,5. Rule Learning,5
+121,Reinforcement Learning,4
+122,Theory,6
+123,Theory,6
+124,Genetic Algorithms,1
+125,5. Rule Learning,5
+126,1. Genetic Algorithms,1
+127,Theory,6
+128,5. Rule Learning,5
+129,5. Rule Learning,5
+130,3,3
+131,Genetic Algorithms,1
+132,5. Rule Learning,5
+133,Genetic Algorithms,1
+134,1,1
+135,1. Genetic Algorithms,1
+136,Neural Networks,2
+137,1. Genetic Algorithms,1
+138,Genetic Algorithms,1
+139,Genetic Algorithms,1
+140,4. Reinforcement Learning,4
+141,Reinforcement Learning,4
+142,Case Based,0
+143,Probabilistic Methods,3
+144,Theory,6
+145,Theory,6
+146,Reinforcement Learning,4
+147,Theory,6
+148,Reinforcement Learning,4
+149,4. Reinforcement Learning,4
+150,3. Probabilistic Methods,3
+151,Reinforcement Learning,4
+152,4. Reinforcement Learning,4
+153,1. Genetic Algorithms,1
+154,Neural Networks,2
+155,Neural Networks,2
+156,Neural Networks,2
+157,4. Reinforcement Learning,4
+158,Probabilistic Methods,3
+159,3. Probabilistic Methods,3
+160,3. Probabilistic Methods,3
+161,Reinforcement Learning,4
+162,2. Neural Networks,2
+163,Neural Networks,2
+164,3,3
+165,Probabilistic Methods,3
+166,4. Reinforcement Learning,4
+167,3. Probabilistic Methods,3
+168,3. Probabilistic Methods,3
+169,3. Probabilistic Methods,3
+170,Neural Networks,2
+171,3. Probabilistic Methods,3
+172,Rule Learning,5
+173,Neural Networks,2
+174,Neural Networks,2
+175,Theory,6
+176,1. Genetic Algorithms,1
+177,4. Reinforcement Learning,4
+178,3. Probabilistic Methods,3
+179,3,3
+180,3. Probabilistic Methods,3
+181,Rule Learning,5
+182,Probabilistic Methods,3
+183,2. Genetic Algorithms,1
+184,2. Neural Networks,2
+185,3,3
+186,Genetic Algorithms,1
+187,4. Reinforcement Learning,4
+188,Neural Networks,2
+189,Neural Networks,2
+190,Theory,6
+191,Genetic Algorithms,1
+192,Case Based,0
+193,Rule Learning,5
+194,Reinforcement Learning,4
+195,Reinforcement Learning,4
+196,Reinforcement Learning,4
+197,Neural Networks,2
+198,Reinforcement Learning,4
+199,Probabilistic Methods,3
+200,3. Probabilistic Methods,3
+201,3,3
+202,2. Neural Networks,2
+203,Reinforcement Learning,4
+204,3,3
+205,Probabilistic Methods,3
+206,Neural Networks,2
+207,3. Probabilistic Methods,3
+208,5. Rule Learning,5
+209,Reinforcement Learning,4
+210,Theory,6
+211,Neural Networks,2
+212,3. Probabilistic Methods,3
+213,Theory,6
+214,Case Based,0
+215,Genetic Algorithms,1
+216,3. Probabilistic Methods,3
+217,Reinforcement Learning,4
+218,Probabilistic Methods,3
+219,Probabilistic Methods,3
+220,5. Rule Learning,5
+221,Neural Networks,2
+222,Neural Networks,2
+223,Neural Networks,2
+224,4. Reinforcement Learning,4
+225,4. Reinforcement Learning,4
+226,3. Probabilistic Methods,3
+227,Neural Networks,2
+228,Neural Networks,2
+229,3,3
+230,3. Probabilistic Methods,3
+231,3. Probabilistic Methods,3
+232,3. Probabilistic Methods,3
+233,5. Rule Learning,5
+234,Genetic Algorithms,1
+235,Probabilistic Methods,3
+236,Genetic Algorithms,1
+237,3. Probabilistic Methods,3
+238,5. Rule Learning,5
+239,Neural Networks,2
+240,3,3
+241,Rule Learning,5
+242,Neural Networks,2
+243,Reinforcement Learning,4
+244,Neural Networks,2
+245,4. Reinforcement Learning,4
+246,Neural Networks,2
+247,Neural Networks,2
+248,4. Reinforcement Learning,4
+249,5. Rule Learning,5
+250,Neural Networks,2
+251,4. Reinforcement Learning,4
+252,Case Based,0
+253,3. Probabilistic Methods,3
+254,3. Probabilistic Methods,3
+255,Reinforcement Learning,4
+256,3. Probabilistic Methods,3
+257,Case Based,0
+258,Reinforcement Learning,4
+259,Rule Learning,5
+260,Case Based,0
+261,Probabilistic Methods,3
+262,Theory,6
+263,Neural Networks,2
+264,Neural Networks,2
+265,3,3
+266,Rule Learning,5
+267,3. Probabilistic Methods,3
+268,Neural Networks,2
+269,3. Probabilistic Methods,3
+270,3,3
+271,4. Reinforcement Learning,4
+272,Probabilistic Methods,3
+273,3,3
+274,Neural Networks,2
+275,Reinforcement Learning,4
+276,3,3
+277,3,3
+278,Neural Networks,2
+279,4. Reinforcement Learning,4
+280,Reinforcement Learning,4
+281,3. Probabilistic Methods,3
+282,5. Rule Learning,5
+283,4. Reinforcement Learning,4
+284,Reinforcement Learning,4
+285,1. Genetic Algorithms,1
+286,Reinforcement Learning,4
+287,3,3
+288,3. Probabilistic Methods,3
+289,Neural Networks,2
+290,Neural Networks,2
+291,3. Probabilistic Methods,3
+292,Case Based,0
+293,Reinforcement Learning,4
+294,1. Genetic Algorithms,1
+295,3. Probabilistic Methods,3
+296,Neural Networks,2
+297,3. Probabilistic Methods,3
+298,3. Probabilistic Methods,3
+299,Genetic Algorithms,1
+300,Rule Learning,5
+301,Neural Networks,2
+302,Neural Networks,2
+303,1. Genetic Algorithms,1
+304,1,1
+305,Neural Networks,2
+306,1. Genetic Algorithms,1
+307,6,6
+308,2. Genetic Algorithms,1
+309,Neural Networks,2
+310,Reinforcement Learning,4
+311,3. Probabilistic Methods,3
+312,2,2
+313,3,3
+314,1. Genetic Algorithms,1
+315,Case Based,0
+316,Neural Networks,2
+317,4. Reinforcement Learning,4
+318,1. Genetic Algorithms,1
+319,Neural Networks,2
+320,Reinforcement Learning,4
+321,3. Probabilistic Methods,3
+322,Neural Networks,2
+323,4,4
+324,3. Probabilistic Methods,3
+325,Case Based,0
+326,Neural Networks,2
+327,3. Probabilistic Methods,3
+328,Neural Networks,2
+329,1. Genetic Algorithms,1
+330,Reinforcement Learning,4
+331,Theory,6
+332,4. Reinforcement Learning,4
+333,Neural Networks,2
+334,3,3
+335,3. Probabilistic Methods,3
+336,3. Probabilistic Methods,3
+337,Neural Networks,2
+338,3. Probabilistic Methods,3
+339,4. Reinforcement Learning,4
+340,Reinforcement Learning,4
+341,Neural Networks,2
+342,5. Rule Learning,5
+343,3. Probabilistic Methods,3
+344,5. Rule Learning,5
+345,3. Probabilistic Methods,3
+346,Neural Networks,2
+347,Case Based,0
+348,4. Reinforcement Learning,4
+349,3. Probabilistic Methods,3
+350,Genetic Algorithms,1
+351,3. Probabilistic Methods,3
+352,3. Probabilistic Methods,3
+353,2. Neural Networks,2
+354,Theory,6
+355,Neural Networks,2
+356,Case Based,0
+357,Neural Networks,2
+358,Neural Networks,2
+359,1. Genetic Algorithms,1
+360,Rule Learning,5
+361,4. Reinforcement Learning,4
+362,Reinforcement Learning,4
+363,Neural Networks,2
+364,Neural Networks,2
+365,Case Based,0
+366,Probabilistic Methods,3
+367,Neural Networks,2
+368,Reinforcement Learning,4
+369,Reinforcement Learning,4
+370,Rule Learning,5
+371,Rule Learning,5
+372,Neural Networks,2
+373,Case Based,0
+374,Probabilistic Methods,3
+375,4. Reinforcement Learning,4
+376,Neural Networks,2
+377,Probabilistic Methods,3
+378,Reinforcement Learning,4
+379,5. Rule Learning,5
+380,3,3
+381,4. Reinforcement Learning,4
+382,4. Reinforcement Learning,4
+383,Probabilistic Methods,3
+384,Genetic Algorithms,1
+385,Neural Networks,2
+386,3,3
+387,3. Probabilistic Methods,3
+388,5. Rule Learning,5
+389,2. Neural Networks,2
+390,3. Probabilistic Methods,3
+391,Neural Networks,2
+392,5. Rule Learning,5
+393,5. Rule Learning,5
+394,Reinforcement Learning,4
+395,3,3
+396,3,3
+397,Probabilistic Methods,3
+398,Probabilistic Methods,3
+399,1. Genetic Algorithms,1
+400,5. Rule Learning,5
+401,Neural Networks,2
+402,3. Probabilistic Methods,3
+403,Neural Networks,2
+404,4,4
+405,Case Based,0
+406,1. Genetic Algorithms,1
+407,1. Case Based,1
+408,Case Based,0
+409,Case Based,0
+410,5. Rule Learning,5
+411,3. Probabilistic Methods,3
+412,6,6
+413,3. Probabilistic Methods,3
+414,Theory,6
+415,Case Based,0
+416,Probabilistic Methods,3
+417,Probabilistic Methods,3
+418,3. Probabilistic Methods,3
+419,Rule Learning,5
+420,Neural Networks,2
+421,Probabilistic Methods,3
+422,Case Based,0
+423,Reinforcement Learning,4
+424,Reinforcement Learning,4
+425,Neural Networks,2
+426,Genetic Algorithms,1
+427,Neural Networks,2
+428,4. Reinforcement Learning,4
+429,4. Reinforcement Learning,4
+430,Reinforcement Learning,4
+431,4. Reinforcement Learning,4
+432,3,3
+433,Reinforcement Learning,4
+434,Case Based,0
+435,Neural Networks,2
+436,4. Reinforcement Learning,4
+437,Rule Learning,5
+438,Neural Networks,2
+439,Neural Networks,2
+440,Neural Networks,2
+441,Rule Learning,5
+442,Reinforcement Learning,4
+443,4. Reinforcement Learning,4
+444,Reinforcement Learning,4
+445,3. Probabilistic Methods,3
+446,Rule Learning,5
+447,Theory,6
+448,Rule Learning,5
+449,Neural Networks,2
+450,4. Reinforcement Learning,4
+451,5. Rule Learning,5
+452,1. Genetic Algorithms,1
+453,3. Probabilistic Methods,3
+454,Rule Learning,5
+455,3. Probabilistic Methods,3
+456,Genetic Algorithms,1
+457,3. Probabilistic Methods,3
+458,Rule Learning,5
+459,1. Genetic Algorithms,1
+460,3. Probabilistic Methods,3
+461,3,3
+462,2. Neural Networks,2
+463,4. Reinforcement Learning,4
+464,Neural Networks,2
+465,3. Probabilistic Methods,3
+466,Neural Networks,2
+467,3. Probabilistic Methods,3
+468,1. Genetic Algorithms,1
+469,2,2
+470,4. Reinforcement Learning,4
+471,Case Based,0
+472,Rule Learning,5
+473,Reinforcement Learning,4
+474,5. Rule Learning,5
+475,Case Based,0
+476,2. Genetic Algorithms,1
+477,3,3
+478,Rule Learning,5
+479,Rule Learning,5
+480,Neural Networks,2
+481,Neural Networks,2
+482,3. Probabilistic Methods,3
+483,Neural Networks,2
+484,Genetic Algorithms,1
+485,Case Based,0
+486,1. Genetic Algorithms,1
+487,3,3
+488,4. Reinforcement Learning,4
+489,Neural Networks,2
+490,Rule Learning,5
+491,Theory,6
+492,Reinforcement Learning,4
+493,2. Neural Networks,2
+494,Neural Networks,2
+495,Theory,6
+496,Theory,6
+497,Case Based,0
+498,3. Probabilistic Methods,3
+499,Theory,6
+500,3. Probabilistic Methods,3
+501,Neural Networks,2
+502,3. Probabilistic Methods,3
+503,Reinforcement Learning,4
+504,1,1
+505,Genetic Algorithms,1
+506,6.,6
+507,Probabilistic Methods,3
+508,Genetic Algorithms,1
+509,3. Probabilistic Methods,3
+510,3,3
+511,3. Probabilistic Methods,3
+512,3. Probabilistic Methods,3
+513,2. Neural Networks,2
+514,5. Rule Learning,5
+515,Reinforcement Learning,4
+516,Probabilistic Methods,3
+517,2. Genetic Algorithms,1
+518,Case Based,0
+519,Probabilistic Methods,3
+520,Neural Networks,2
+521,Neural Networks,2
+522,Neural Networks,2
+523,Reinforcement Learning,4
+524,Neural Networks,2
+525,Case Based,0
+526,Neural Networks,2
+527,Case Based,0
+528,5. Rule Learning,5
+529,4. Reinforcement Learning,4
+530,Case Based,0
+531,1. Genetic Algorithms,1
+532,3. Probabilistic Methods,3
+533,Neural Networks,2
+534,Neural Networks,2
+535,Neural Networks,2
+536,Neural Networks,2
+537,Theory,6
+538,Reinforcement Learning,4
+539,3,3
+540,Rule Learning,5
+541,5. Rule Learning,5
+542,1,1
+543,Case Based,0
+544,Genetic Algorithms,1
+545,4. Reinforcement Learning,4
+546,Reinforcement Learning,4
+547,3. Probabilistic Methods,3
+548,Probabilistic Methods,3
+549,Probabilistic Methods,3
+550,Theory,6
+551,Genetic Algorithms,1
+552,Neural Networks,2
+553,3. Probabilistic Methods,3
+554,Theory,6
+555,3,3
+556,2. Genetic Algorithms,1
+557,Neural Networks,2
+558,Neural Networks,2
+559,Rule Learning,5
+560,4. Reinforcement Learning,4
+561,3,3
+562,2. Genetic Algorithms,1
+563,3,3
+564,Neural Networks,2
+565,Neural Networks,2
+566,4. Reinforcement Learning,4
+567,Neural Networks,2
+568,3. Probabilistic Methods,3
+569,Neural Networks,2
+570,Neural Networks,2
+571,3. Probabilistic Methods,3
+572,Probabilistic Methods,3
+573,Rule Learning,5
+574,3. Probabilistic Methods,3
+575,3. Probabilistic Methods,3
+576,Probabilistic Methods,3
+577,4. Reinforcement Learning,4
+578,Neural Networks,2
+579,Neural Networks,2
+580,Neural Networks,2
+581,3,3
+582,Reinforcement Learning,4
+583,Reinforcement Learning,4
+584,4. Reinforcement Learning,4
+585,Reinforcement Learning,4
+586,Case Based,0
+587,Rule Learning,5
+588,4. Reinforcement Learning,4
+589,Reinforcement Learning,4
+590,1,1
+591,Probabilistic Methods,3
+592,2. Neural Networks,2
+593,Reinforcement Learning,4
+594,Theory,6
+595,3. Probabilistic Methods,3
+596,5. Rule Learning,5
+597,Reinforcement Learning,4
+598,3. Probabilistic Methods,3
+599,3. Probabilistic Methods,3
+600,6,6
+601,Probabilistic Methods,3
+602,4. Reinforcement Learning,4
+603,3. Probabilistic Methods,3
+604,Theory,6
+605,3. Probabilistic Methods,3
+606,3. Probabilistic Methods,3
+607,3,3
+608,Genetic Algorithms,1
+609,Neural Networks,2
+610,Rule Learning,5
+611,Theory,6
+612,5. Rule Learning,5
+613,Neural Networks,2
+614,Probabilistic Methods,3
+615,Neural Networks,2
+616,Neural Networks,2
+617,Reinforcement Learning,4
+618,Probabilistic Methods,3
+619,Case Based,0
+620,Probabilistic Methods,3
+621,3. Probabilistic Methods,3
+622,3. Probabilistic Methods,3
+623,4. Reinforcement Learning,4
+624,Reinforcement Learning,4
+625,3. Probabilistic Methods,3
+626,Genetic Algorithms,1
+627,4. Reinforcement Learning,4
+628,Neural Networks,2
+629,Neural Networks,2
+630,5. Rule Learning,5
+631,Neural Networks,2
+632,Neural Networks,2
+633,3. Probabilistic Methods,3
+634,5. Rule Learning,5
+635,Rule Learning,5
+636,Neural Networks,2
+637,3. Probabilistic Methods,3
+638,4. Reinforcement Learning,4
+639,3. Probabilistic Methods,3
+640,3. Probabilistic Methods,3
+641,Neural Networks,2
+642,Genetic Algorithms,1
+643,5. Rule Learning,5
+644,Neural Networks,2
+645,5. Rule Learning,5
+646,Rule Learning,5
+647,5. Rule Learning,5
+648,Rule Learning,5
+649,3. Probabilistic Methods,3
+650,Neural Networks,2
+651,Reinforcement Learning,4
+652,Reinforcement Learning,4
+653,3. Probabilistic Methods,3
+654,Reinforcement Learning,4
+655,Neural Networks,2
+656,Genetic Algorithms,1
+657,Neural Networks,2
+658,3. Probabilistic Methods,3
+659,Theory,6
+660,Genetic Algorithms,1
+661,Rule Learning,5
+662,Probabilistic Methods,3
+663,Theory,6
+664,3. Probabilistic Methods,3
+665,Reinforcement Learning,4
+666,3. Probabilistic Methods,3
+667,Case Based,0
+668,3,3
+669,3. Probabilistic Methods,3
+670,3. Probabilistic Methods,3
+671,Genetic Algorithms,1
+672,Rule Learning,5
+673,3. Probabilistic Methods,3
+674,Reinforcement Learning,4
+675,3,3
+676,Rule Learning,5
+677,4. Reinforcement Learning,4
+678,Probabilistic Methods,3
+679,Case Based,0
+680,Case Based,0
+681,Probabilistic Methods,3
+682,Neural Networks,2
+683,Neural Networks,2
+684,Neural Networks,2
+685,3,3
+686,Neural Networks,2
+687,Neural Networks,2
+688,Reinforcement Learning,4
+689,Neural Networks,2
+690,3,3
+691,1. Genetic Algorithms,1
+692,3,3
+693,Case Based,0
+694,Rule Learning,5
+695,5. Rule Learning,5
+696,Neural Networks,2
+697,3. Probabilistic Methods,3
+698,Reinforcement Learning,4
+699,1. Genetic Algorithms,1
+700,3. Probabilistic Methods,3
+701,Rule Learning,5
+702,Rule Learning,5
+703,5. Rule Learning,5
+704,Neural Networks,2
+705,Reinforcement Learning,4
+706,Reinforcement Learning,4
+707,Case Based,0
+708,3,3
+709,5. Rule Learning,5
+710,3. Probabilistic Methods,3
+711,6,6
+712,Theory,6
+713,2. Neural Networks,2
+714,Reinforcement Learning,4
+715,Neural Networks,2
+716,3. Probabilistic Methods,3
+717,Reinforcement Learning,4
+718,Rule Learning,5
+719,Neural Networks,2
+720,Rule Learning,5
+721,Neural Networks,2
+722,3. Probabilistic Methods,3
+723,Neural Networks,2
+724,Theory,6
+725,Rule Learning,5
+726,Reinforcement Learning,4
+727,3. Probabilistic Methods,3
+728,Case Based,0
+729,4. Reinforcement Learning,4
+730,3. Probabilistic Methods,3
+731,Neural Networks,2
+732,Neural Networks,2
+733,Neural Networks,2
+734,Case Based,0
+735,5. Rule Learning,5
+736,3,3
+737,Probabilistic Methods,3
+738,Neural Networks,2
+739,5. Rule Learning,5
+740,3. Probabilistic Methods,3
+741,Genetic Algorithms,1
+742,1. Genetic Algorithms,1
+743,Probabilistic Methods,3
+744,Neural Networks,2
+745,3. Probabilistic Methods,3
+746,3. Probabilistic Methods,3
+747,Rule Learning,5
+748,Neural Networks,2
+749,Genetic Algorithms,1
+750,Rule Learning,5
+751,Theory,6
+752,Neural Networks,2
+753,5. Rule Learning,5
+754,Neural Networks,2
+755,Probabilistic Methods,3
+756,3. Probabilistic Methods,3
+757,2. Neural Networks,2
+758,Neural Networks,2
+759,Neural Networks,2
+760,Neural Networks,2
+761,4. Reinforcement Learning,4
+762,Neural Networks,2
+763,Neural Networks,2
+764,2. Neural Networks,2
+765,3,3
+766,3. Probabilistic Methods,3
+767,Probabilistic Methods,3
+768,Neural Networks,2
+769,Neural Networks,2
+770,2. Neural Networks,2
+771,4. Reinforcement Learning,4
+772,Theory,6
+773,Genetic Algorithms,1
+774,4. Reinforcement Learning,4
+775,3. Probabilistic Methods,3
+776,Probabilistic Methods,3
+777,Theory,6
+778,1. Genetic Algorithms,1
+779,Theory,6
+780,Reinforcement Learning,4
+781,Genetic Algorithms,1
+782,4. Reinforcement Learning,4
+783,Reinforcement Learning,4
+784,3. Probabilistic Methods,3
+785,1. Genetic Algorithms,1
+786,Case Based,0
+787,4. Reinforcement Learning,4
+788,3. Probabilistic Methods,3
+789,4. Reinforcement Learning,4
+790,3. Probabilistic Methods,3
+791,3,3
+792,Probabilistic Methods,3
+793,Rule Learning,5
+794,4. Reinforcement Learning,4
+795,Genetic Algorithms,1
+796,Neural Networks,2
+797,Neural Networks,2
+798,4. Reinforcement Learning,4
+799,Probabilistic Methods,3
+800,Neural Networks,2
+801,5. Rule Learning,5
+802,4. Reinforcement Learning,4
+803,5. Rule Learning,5
+804,Neural Networks,2
+805,Reinforcement Learning,4
+806,Neural Networks,2
+807,5. Rule Learning,5
+808,Reinforcement Learning,4
+809,Genetic Algorithms,1
+810,Reinforcement Learning,4
+811,3. Probabilistic Methods,3
+812,3. Probabilistic Methods,3
+813,Reinforcement Learning,4
+814,Reinforcement Learning,4
+815,Rule Learning,5
+816,Rule Learning,5
+817,Neural Networks,2
+818,Probabilistic Methods,3
+819,Neural Networks,2
+820,Neural Networks,2
+821,3. Probabilistic Methods,3
+822,Theory,6
+823,Neural Networks,2
+824,Neural Networks,2
+825,Neural Networks,2
+826,Rule Learning,5
+827,3,3
+828,4. Reinforcement Learning,4
+829,3. Probabilistic Methods,3
+830,1. Genetic Algorithms,1
+831,Neural Networks,2
+832,3,3
+833,Probabilistic Methods,3
+834,Neural Networks,2
+835,3. Probabilistic Methods,3
+836,3. Probabilistic Methods,3
+837,Reinforcement Learning,4
+838,3,3
+839,Case Based,0
+840,5. Rule Learning,5
+841,Genetic Algorithms,1
+842,Theory,6
+843,3,3
+844,5. Rule Learning,5
+845,Probabilistic Methods,3
+846,3. Probabilistic Methods,3
+847,Case Based,0
+848,Neural Networks,2
+849,Reinforcement Learning,4
+850,6,6
+851,Case Based,0
+852,Genetic Algorithms,1
+853,Neural Networks,2
+854,Reinforcement Learning,4
+855,3,3
+856,4. Reinforcement Learning,4
+857,Reinforcement Learning,4
+858,Case Based,0
+859,2. Neural Networks,2
+860,3,3
+861,Probabilistic Methods,3
+862,Probabilistic Methods,3
+863,Reinforcement Learning,4
+864,1. Genetic Algorithms,1
+865,Case Based,0
+866,3. Probabilistic Methods,3
+867,Neural Networks,2
+868,Probabilistic Methods,3
+869,Probabilistic Methods,3
+870,3. Probabilistic Methods,3
+871,Neural Networks,2
+872,3. Probabilistic Methods,3
+873,Neural Networks,2
+874,3. Probabilistic Methods,3
+875,3. Probabilistic Methods,3
+876,Neural Networks,2
+877,Genetic Algorithms,1
+878,Probabilistic Methods,3
+879,Probabilistic Methods,3
+880,Theory,6
+881,Neural Networks,2
+882,Neural Networks,2
+883,Neural Networks,2
+884,4. Reinforcement Learning,4
+885,Rule Learning,5
+886,3. Probabilistic Methods,3
+887,1. Genetic Algorithms,1
+888,Case Based,0
+889,Genetic Algorithms,1
+890,5. Rule Learning,5
+891,Rule Learning,5
+892,3. Probabilistic Methods,3
+893,Reinforcement Learning,4
+894,3,3
+895,Rule Learning,5
+896,Theory,6
+897,Neural Networks,2
+898,Theory,6
+899,Probabilistic Methods,3
+900,Neural Networks,2
+901,Neural Networks,2
+902,Neural Networks,2
+903,Reinforcement Learning,4
+904,5. Rule Learning,5
+905,Neural Networks,2
+906,Reinforcement Learning,4
+907,Theory,6
+908,Genetic Algorithms,1
+909,Probabilistic Methods,3
+910,1. Genetic Algorithms,1
+911,Reinforcement Learning,4
+912,Probabilistic Methods,3
+913,Rule Learning,5
+914,3. Probabilistic Methods,3
+915,Neural Networks,2
+916,3. Probabilistic Methods,3
+917,Case Based,0
+918,3. Probabilistic Methods,3
+919,Neural Networks,2
+920,3. Probabilistic Methods,3
+921,Theory,6
+922,Reinforcement Learning,4
+923,3. Probabilistic Methods,3
+924,4. Reinforcement Learning,4
+925,Rule Learning,5
+926,Probabilistic Methods,3
+927,3. Probabilistic Methods,3
+928,3. Probabilistic Methods,3
+929,Neural Networks,2
+930,3. Probabilistic Methods,3
+931,Neural Networks,2
+932,3. Probabilistic Methods,3
+933,Neural Networks,2
+934,Neural Networks,2
+935,Rule Learning,5
+936,Neural Networks,2
+937,2. Neural Networks,2
+938,3. Probabilistic Methods,3
+939,Theory,6
+940,5. Rule Learning,5
+941,5. Rule Learning,5
+942,3. Probabilistic Methods,3
+943,Reinforcement Learning,4
+944,3. Probabilistic Methods,3
+945,Rule Learning,5
+946,Reinforcement Learning,4
+947,4. Reinforcement Learning,4
+948,Genetic Algorithms,1
+949,Reinforcement Learning,4
+950,Rule Learning,5
+951,2. Neural Networks,2
+952,Rule Learning,5
+953,3. Probabilistic Methods,3
+954,4,4
+955,Theory,6
+956,4. Reinforcement Learning,4
+957,Neural Networks,2
+958,Neural Networks,2
+959,3. Probabilistic Methods,3
+960,Probabilistic Methods,3
+961,2. Genetic Algorithms,1
+962,3. Probabilistic Methods,3
+963,Reinforcement Learning,4
+964,4. Reinforcement Learning,4
+965,Case Based,0
+966,Rule Learning,5
+967,Case Based,0
+968,3. Probabilistic Methods,3
+969,Genetic Algorithms,1
+970,Neural Networks,2
+971,5. Rule Learning,5
+972,3. Probabilistic Methods,3
+973,Theory,6
+974,Probabilistic Methods,3
+975,3,3
+976,2. Neural Networks,2
+977,Neural Networks,2
+978,Neural Networks,2
+979,Neural Networks,2
+980,Genetic Algorithms,1
+981,3. Probabilistic Methods,3
+982,3,3
+983,4. Reinforcement Learning,4
+984,Neural Networks,2
+985,Neural Networks,2
+986,4. Reinforcement Learning,4
+987,Neural Networks,2
+988,3. Probabilistic Methods,3
+989,4. Reinforcement Learning,4
+990,3. Probabilistic Methods,3
+991,4. Reinforcement Learning,4
+992,Reinforcement Learning,4
+993,Neural Networks,2
+994,3. Probabilistic Methods,3
+995,Neural Networks,2
+996,Reinforcement Learning,4
+997,2. Neural Networks,2
+998,Neural Networks,2
+999,Neural Networks,2
+1000,Probabilistic Methods,3
+1001,Reinforcement Learning,4
+1002,3. Probabilistic Methods,3
+1003,Neural Networks,2
+1004,3,3
+1005,3. Probabilistic Methods,3
+1006,Case Based,0
+1007,Neural Networks,2
+1008,Case Based,0
+1009,1. Genetic Algorithms,1
+1010,4. Reinforcement Learning,4
+1011,1. Genetic Algorithms,1
+1012,3. Probabilistic Methods,3
+1013,Theory,6
+1014,Probabilistic Methods,3
+1015,Reinforcement Learning,4
+1016,Neural Networks,2
+1017,Case Based,0
+1018,Reinforcement Learning,4
+1019,3. Probabilistic Methods,3
+1020,3. Probabilistic Methods,3
+1021,3. Probabilistic Methods,3
+1022,5. Rule Learning,5
+1023,3. Probabilistic Methods,3
+1024,3. Probabilistic Methods,3
+1025,Neural Networks,2
+1026,4. Reinforcement Learning,4
+1027,5. Rule Learning,5
+1028,Rule Learning,5
+1029,Rule Learning,5
+1030,Neural Networks,2
+1031,3. Probabilistic Methods,3
+1032,3,3
+1033,Neural Networks,2
+1034,Neural Networks,2
+1035,2. Neural Networks,2
+1036,2. Neural Networks:,2
+1037,Neural Networks,2
+1038,Neural Networks,2
+1039,4. Reinforcement Learning,4
+1040,Neural Networks,2
+1041,Neural Networks,2
+1042,Case Based,0
+1043,3. Probabilistic Methods,3
+1044,Neural Networks,2
+1045,Genetic Algorithms,1
+1046,Reinforcement Learning,4
+1047,Genetic Algorithms,1
+1048,3. Probabilistic Methods,3
+1049,3. Probabilistic Methods,3
+1050,4. Reinforcement Learning,4
+1051,Reinforcement Learning,4
+1052,3,3
+1053,Genetic Algorithms,1
+1054,3. Probabilistic Methods,3
+1055,3. Probabilistic Methods,3
+1056,3. Probabilistic Methods,3
+1057,Neural Networks,2
+1058,Theory,6
+1059,3,3
+1060,Rule Learning,5
+1061,Reinforcement Learning,4
+1062,1. Genetic Algorithms,1
+1063,3. Probabilistic Methods,3
+1064,Reinforcement Learning,4
+1065,Genetic Algorithms,1
+1066,Probabilistic Methods,3
+1067,Neural Networks,2
+1068,4. Reinforcement Learning,4
+1069,Case Based,0
+1070,Rule Learning,5
+1071,4. Reinforcement Learning,4
+1072,Neural Networks,2
+1073,3. Probabilistic Methods,3
+1074,Theory,6
+1075,Probabilistic Methods,3
+1076,Theory,6
+1077,Neural Networks,2
+1078,Neural Networks,2
+1079,Reinforcement Learning,4
+1080,Neural Networks,2
+1081,4. Reinforcement Learning,4
+1082,4. Reinforcement Learning,4
+1083,3. Probabilistic Methods,3
+1084,3,3
+1085,Theory,6
+1086,3. Probabilistic Methods,3
+1087,Reinforcement Learning,4
+1088,Genetic Algorithms,1
+1089,Genetic Algorithms,1
+1090,3. Probabilistic Methods,3
+1091,Neural Networks,2
+1092,Probabilistic Methods,3
+1093,3. Probabilistic Methods,3
+1094,4. Reinforcement Learning,4
+1095,Probabilistic Methods,3
+1096,3. Probabilistic Methods,3
+1097,4. Reinforcement Learning,4
+1098,3. Probabilistic Methods,3
+1099,Probabilistic Methods,3
+1100,3,3
+1101,3. Probabilistic Methods,3
+1102,Reinforcement Learning,4
+1103,Neural Networks,2
+1104,Case Based,0
+1105,5. Rule Learning,5
+1106,Probabilistic Methods,3
+1107,Probabilistic Methods,3
+1108,3. Probabilistic Methods,3
+1109,Reinforcement Learning,4
+1110,3,3
+1111,Probabilistic Methods,3
+1112,4. Reinforcement Learning,4
+1113,5. Rule Learning,5
+1114,Neural Networks,2
+1115,3,3
+1116,3. Probabilistic Methods,3
+1117,Case Based,0
+1118,Case Based,0
+1119,4. Reinforcement Learning,4
+1120,Probabilistic Methods,3
+1121,3,3
+1122,5. Rule Learning,5
+1123,Neural Networks,2
+1124,3. Probabilistic Methods,3
+1125,Case Based,0
+1126,3. Probabilistic Methods,3
+1127,3. Probabilistic Methods,3
+1128,Rule Learning,5
+1129,2. Neural Networks,2
+1130,3. Probabilistic Methods,3
+1131,3,3
+1132,3. Probabilistic Methods,3
+1133,Rule Learning,5
+1134,3,3
+1135,4. Reinforcement Learning,4
+1136,Neural Networks,2
+1137,Case Based,0
+1138,4. Reinforcement Learning,4
+1139,2,2
+1140,Neural Networks,2
+1141,Neural Networks,2
+1142,1. Genetic Algorithms,1
+1143,Reinforcement Learning,4
+1144,Genetic Algorithms,1
+1145,Neural Networks,2
+1146,Genetic Algorithms,1
+1147,3. Probabilistic Methods,3
+1148,Neural Networks,2
+1149,3. Probabilistic Methods,3
+1150,Neural Networks,2
+1151,3,3
+1152,Case Based,0
+1153,4. Reinforcement Learning,4
+1154,Neural Networks,2
+1155,Neural Networks,2
+1156,Reinforcement Learning,4
+1157,Neural Networks,2
+1158,Reinforcement Learning,4
+1159,3. Probabilistic Methods,3
+1160,Case Based,0
+1161,Neural Networks,2
+1162,4. Reinforcement Learning,4
+1163,Theory,6
+1164,Neural Networks,2
+1165,Theory,6
+1166,3. Probabilistic Methods,3
+1167,Neural Networks,2
+1168,Rule Learning,5
+1169,Neural Networks,2
+1170,Theory,6
+1171,Probabilistic Methods,3
+1172,1. Genetic Algorithms,1
+1173,Neural Networks,2
+1174,Genetic Algorithms,1
+1175,Neural Networks,2
+1176,3. Probabilistic Methods,3
+1177,3. Probabilistic Methods,3
+1178,Case Based,0
+1179,Rule Learning,5
+1180,Genetic Algorithms,1
+1181,5. Rule Learning,5
+1182,Rule Learning,5
+1183,1,1
+1184,Rule Learning,5
+1185,3. Probabilistic Methods,3
+1186,3. Probabilistic Methods,3
+1187,1. Genetic Algorithms,1
+1188,1. Genetic Algorithms,1
+1189,Neural Networks,2
+1190,Rule Learning,5
+1191,3. Probabilistic Methods,3
+1192,3,3
+1193,Genetic Algorithms,1
+1194,Reinforcement Learning,4
+1195,Case Based,0
+1196,1. Genetic Algorithms,1
+1197,Genetic Algorithms,1
+1198,Neural Networks,2
+1199,Neural Networks,2
+1200,Probabilistic Methods,3
+1201,Neural Networks,2
+1202,4. Reinforcement Learning,4
+1203,Theory,6
+1204,Theory,6
+1205,Neural Networks,2
+1206,4. Reinforcement Learning,4
+1207,4. Reinforcement Learning,4
+1208,Reinforcement Learning,4
+1209,Neural Networks,2
+1210,Neural Networks,2
+1211,3. Probabilistic Methods,3
+1212,3. Probabilistic Methods,3
+1213,3. Probabilistic Methods,3
+1214,Neural Networks,2
+1215,Probabilistic Methods,3
+1216,2. Neural Networks,2
+1217,3. Probabilistic Methods,3
+1218,3,3
+1219,3. Probabilistic Methods,3
+1220,Neural Networks,2
+1221,4. Reinforcement Learning,4
+1222,Case Based,0
+1223,3,3
+1224,4,4
+1225,3. Probabilistic Methods,3
+1226,5. Rule Learning,5
+1227,5. Rule Learning,5
+1228,3,3
+1229,Neural Networks,2
+1230,Reinforcement Learning,4
+1231,3. Probabilistic Methods,3
+1232,3. Probabilistic Methods,3
+1233,Neural Networks,2
+1234,4. Reinforcement Learning,4
+1235,3. Probabilistic Methods,3
+1236,Theory,6
+1237,5. Rule Learning,5
+1238,Neural Networks,2
+1239,3. Probabilistic Methods,3
+1240,Reinforcement Learning,4
+1241,3. Probabilistic Methods,3
+1242,3. Probabilistic Methods,3
+1243,2. Neural Networks,2
+1244,Neural Networks,2
+1245,Genetic Algorithms,1
+1246,Reinforcement Learning,4
+1247,Probabilistic Methods,3
+1248,Neural Networks,2
+1249,Neural Networks,2
+1250,Neural Networks,2
+1251,Genetic Algorithms,1
+1252,Neural Networks,2
+1253,Genetic Algorithms,1
+1254,Neural Networks,2
+1255,Neural Networks,2
+1256,3,3
+1257,4. Reinforcement Learning,4
+1258,Rule Learning,5
+1259,Reinforcement Learning,4
+1260,4. Reinforcement Learning,4
+1261,Reinforcement Learning,4
+1262,Neural Networks,2
+1263,Neural Networks,2
+1264,4. Reinforcement Learning,4
+1265,Reinforcement Learning,4
+1266,Reinforcement Learning,4
+1267,Rule Learning,5
+1268,Reinforcement Learning,4
+1269,Rule Learning,5
+1270,3. Probabilistic Methods,3
+1271,Neural Networks,2
+1272,3,3
+1273,Probabilistic Methods,3
+1274,Neural Networks,2
+1275,Genetic Algorithms,1
+1276,Rule Learning,5
+1277,5. Rule Learning,5
+1278,Neural Networks,2
+1279,Probabilistic Methods,3
+1280,Neural Networks,2
+1281,Neural Networks,2
+1282,Neural Networks,2
+1283,Neural Networks,2
+1284,Neural Networks,2
+1285,Case Based,0
+1286,Reinforcement Learning,4
+1287,Neural Networks,2
+1288,Rule Learning,5
+1289,Neural Networks,2
+1290,3,3
+1291,Theory,6
+1292,Neural Networks,2
+1293,4. Reinforcement Learning,4
+1294,3. Probabilistic Methods,3
+1295,4. Reinforcement Learning,4
+1296,3,3
+1297,3. Probabilistic Methods,3
+1298,2. Neural Networks,2
+1299,Probabilistic Methods,3
+1300,3. Probabilistic Methods,3
+1301,3. Probabilistic Methods,3
+1302,1. Genetic Algorithms,1
+1303,Probabilistic Methods,3
+1304,Genetic Algorithms,1
+1305,Neural Networks,2
+1306,Neural Networks,2
+1307,Neural Networks,2
+1308,Neural Networks,2
+1309,Rule Learning,5
+1310,Probabilistic Methods,3
+1311,5. Rule Learning,5
+1312,5. Rule Learning,5
+1313,Rule Learning,5
+1314,5. Rule Learning,5
+1315,3. Probabilistic Methods,3
+1316,Probabilistic Methods,3
+1317,Neural Networks,2
+1318,2,2
+1319,Reinforcement Learning,4
+1320,4. Reinforcement Learning,4
+1321,3,3
+1322,Reinforcement Learning,4
+1323,3. Probabilistic Methods,3
+1324,3. Probabilistic Methods,3
+1325,3. Probabilistic Methods,3
+1326,3. Probabilistic Methods,3
+1327,Theory,6
+1328,Theory,6
+1329,Reinforcement Learning,4
+1330,3. Probabilistic Methods,3
+1331,3. Probabilistic Methods,3
+1332,Probabilistic Methods,3
+1333,Reinforcement Learning,4
+1334,3. Probabilistic Methods,3
+1335,2. Genetic Algorithms,1
+1336,Probabilistic Methods,3
+1337,Genetic Algorithms,1
+1338,4.,4
+1339,Neural Networks,2
+1340,3. Probabilistic Methods,3
+1341,Probabilistic Methods,3
+1342,1. Genetic Algorithms,1
+1343,Case Based,0
+1344,Reinforcement Learning,4
+1345,Neural Networks,2
+1346,Genetic Algorithms,1
+1347,Neural Networks,2
+1348,3. Probabilistic Methods,3
+1349,Reinforcement Learning,4
+1350,Reinforcement Learning,4
+1351,2. Neural Networks,2
+1352,Theory,6
+1353,5. Rule Learning,5
+1354,3. Rule Learning,5
+1355,3. Probabilistic Methods,3
+1356,3. Probabilistic Methods,3
+1357,Case Based,0
+1358,Neural Networks,2
+1359,Theory,6
+1360,5. Rule Learning,5
+1361,Neural Networks,2
+1362,Theory,6
+1363,3. Probabilistic Methods,3
+1364,3,3
+1365,4. Reinforcement Learning,4
+1366,4. Reinforcement Learning,4
+1367,Genetic Algorithms,1
+1368,Rule Learning,5
+1369,Reinforcement Learning,4
+1370,3,3
+1371,3,3
+1372,Theory,6
+1373,Neural Networks,2
+1374,Neural Networks,2
+1375,Rule Learning,5
+1376,Neural Networks,2
+1377,Case Based,0
+1378,Rule Learning,5
+1379,4. Reinforcement Learning,4
+1380,4. Reinforcement Learning,4
+1381,Reinforcement Learning,4
+1382,3. Probabilistic Methods,3
+1383,Neural Networks,2
+1384,Neural Networks,2
+1385,Reinforcement Learning,4
+1386,Probabilistic Methods,3
+1387,5. Rule Learning,5
+1388,2,2
+1389,Neural Networks,2
+1390,Reinforcement Learning,4
+1391,Case Based,0
+1392,Probabilistic Methods,3
+1393,Neural Networks,2
+1394,Case Based,0
+1395,Case Based,0
+1396,Theory,6
+1397,Case Based,0
+1398,Neural Networks,2
+1399,Theory,6
+1400,3. Probabilistic Methods,3
+1401,4. Reinforcement Learning,4
+1402,Theory,6
+1403,Probabilistic Methods,3
+1404,5. Rule Learning,5
+1405,3. Probabilistic Methods,3
+1406,4. Reinforcement Learning,4
+1407,1. Genetic Algorithms,1
+1408,5. Rule Learning,5
+1409,5. Rule Learning,5
+1410,Neural Networks,2
+1411,1. Genetic Algorithms,1
+1412,Neural Networks,2
+1413,3,3
+1414,Rule Learning,5
+1415,Rule Learning,5
+1416,Genetic Algorithms,1
+1417,4. Reinforcement Learning,4
+1418,Reinforcement Learning,4
+1419,Reinforcement Learning,4
+1420,3,3
+1421,Theory,6
+1422,Reinforcement Learning,4
+1423,Case Based,0
+1424,3. Probabilistic Methods,3
+1425,4. Reinforcement Learning,4
+1426,Neural Networks,2
+1427,Neural Networks,2
+1428,4. Reinforcement Learning,4
+1429,4. Reinforcement Learning,4
+1430,Neural Networks,2
+1431,Neural Networks,2
+1432,2. Genetic Algorithms:,2
+1433,2. Neural Networks,2
+1434,3. Probabilistic Methods,3
+1435,Neural Networks,2
+1436,4,4
+1437,Reinforcement Learning,4
+1438,3,3
+1439,Probabilistic Methods,3
+1440,3. Probabilistic Methods,3
+1441,Rule Learning,5
+1442,Probabilistic Methods,3
+1443,Genetic Algorithms,1
+1444,Reinforcement Learning,4
+1445,3. Probabilistic Methods,3
+1446,3. Probabilistic Methods,3
+1447,Probabilistic Methods,3
+1448,Genetic Algorithms,1
+1449,Reinforcement Learning,4
+1450,1. Genetic Algorithms,1
+1451,Reinforcement Learning,4
+1452,Genetic Algorithms,1
+1453,Genetic Algorithms,1
+1454,Reinforcement Learning,4
+1455,Rule Learning,5
+1456,1. Genetic Algorithms,1
+1457,Probabilistic Methods,3
+1458,3. Probabilistic Methods,3
+1459,1,1
+1460,Probabilistic Methods,3
+1461,4. Reinforcement Learning,4
+1462,Reinforcement Learning,4
+1463,Neural Networks,2
+1464,Theory,6
+1465,3. Probabilistic Methods,3
+1466,Neural Networks,2
+1467,Neural Networks,2
+1468,Neural Networks,2
+1469,Probabilistic Methods,3
+1470,Rule Learning,5
+1471,Neural Networks,2
+1472,3. Probabilistic Methods,3
+1473,3. Probabilistic Methods,3
+1474,4. Reinforcement Learning,4
+1475,Case Based,0
+1476,Theory,6
+1477,Probabilistic Methods,3
+1478,Neural Networks,2
+1479,3,3
+1480,Neural Networks,2
+1481,Case Based,0
+1482,Theory,6
+1483,Neural Networks,2
+1484,4. Reinforcement Learning,4
+1485,Theory,6
+1486,Neural Networks,2
+1487,Theory,6
+1488,3. Probabilistic Methods,3
+1489,Probabilistic Methods,3
+1490,Neural Networks,2
+1491,Reinforcement Learning,4
+1492,Neural Networks,2
+1493,Reinforcement Learning,4
+1494,2.,2
+1495,5. Rule Learning,5
+1496,3. Probabilistic Methods,3
+1497,Neural Networks,2
+1498,3. Probabilistic Methods,3
+1499,Neural Networks,2
+1500,Reinforcement Learning,4
+1501,Theory,6
+1502,3. Probabilistic Methods,3
+1503,3. Probabilistic Methods,3
+1504,Theory,6
+1505,Neural Networks,2
+1506,Neural Networks,2
+1507,5. Rule Learning,5
+1508,Reinforcement Learning,4
+1509,Neural Networks,2
+1510,4. Reinforcement Learning,4
+1511,4. Reinforcement Learning,4
+1512,1,1
+1513,Neural Networks,2
+1514,3,3
+1515,4. Reinforcement Learning,4
+1516,Neural Networks,2
+1517,Case Based,0
+1518,4. Reinforcement Learning,4
+1519,4. Reinforcement Learning,4
+1520,Neural Networks,2
+1521,Reinforcement Learning,4
+1522,4. Reinforcement Learning,4
+1523,4. Reinforcement Learning,4
+1524,Neural Networks,2
+1525,Theory,6
+1526,Case Based,0
+1527,Rule Learning,5
+1528,Neural Networks,2
+1529,Reinforcement Learning,4
+1530,Reinforcement Learning,4
+1531,4. Reinforcement Learning,4
+1532,Reinforcement Learning,4
+1533,Reinforcement Learning,4
+1534,4. Reinforcement Learning,4
+1535,Reinforcement Learning,4
+1536,4. Reinforcement Learning,4
+1537,5. Rule Learning,5
+1538,Rule Learning,5
+1539,6. Theory,6
+1540,Case Based,0
+1541,Probabilistic Methods,3
+1542,3. Probabilistic Methods,3
+1543,5. Rule Learning,5
+1544,2. Neural Networks,2
+1545,Reinforcement Learning,4
+1546,Neural Networks,2
+1547,Neural Networks,2
+1548,3. Probabilistic Methods,3
+1549,Rule Learning,5
+1550,Neural Networks,2
+1551,1. Genetic Algorithms,1
+1552,Neural Networks,2
+1553,5. Rule Learning,5
+1554,3. Probabilistic Methods,3
+1555,5. Rule Learning,5
+1556,1. Genetic Algorithms,1
+1557,1. Genetic Algorithms,1
+1558,2,2
+1559,Reinforcement Learning,4
+1560,Neural Networks,2
+1561,1. Genetic Algorithms,1
+1562,Neural Networks,2
+1563,3,3
+1564,Genetic Algorithms,1
+1565,Neural Networks,2
+1566,Neural Networks,2
+1567,Probabilistic Methods,3
+1568,2. Neural Networks,2
+1569,4. Reinforcement Learning,4
+1570,3. Probabilistic Methods,3
+1571,1. Genetic Algorithms,1
+1572,Genetic Algorithms,1
+1573,3. Probabilistic Methods,3
+1574,3. Probabilistic Methods,3
+1575,3,3
+1576,3. Probabilistic Methods,3
+1577,3. Probabilistic Methods,3
+1578,5. Rule Learning,5
+1579,5. Rule Learning,5
+1580,Case Based,0
+1581,3. Probabilistic Methods,3
+1582,Neural Networks,2
+1583,Rule Learning,5
+1584,Genetic Algorithms,1
+1585,Reinforcement Learning,4
+1586,Neural Networks,2
+1587,3. Probabilistic Methods,3
+1588,1. Genetic Algorithms,1
+1589,Neural Networks,2
+1590,Case Based,0
+1591,3. Probabilistic Methods,3
+1592,Rule Learning,5
+1593,6,6
+1594,Theory,6
+1595,Case Based,0
+1596,Neural Networks,2
+1597,Reinforcement Learning,4
+1598,Probabilistic Methods,3
+1599,Neural Networks,2
+1600,3. Probabilistic Methods,3
+1601,2. Neural Networks,2
+1602,Case Based,0
+1603,1,1
+1604,2. Neural Networks,2
+1605,3,3
+1606,Neural Networks,2
+1607,3. Probabilistic Methods,3
+1608,Probabilistic Methods,3
+1609,Genetic Algorithms,1
+1610,Neural Networks,2
+1611,3. Probabilistic Methods,3
+1612,Neural Networks,2
+1613,3. Probabilistic Methods,3
+1614,Reinforcement Learning,4
+1615,Neural Networks,2
+1616,Genetic Algorithms,1
+1617,Neural Networks,2
+1618,Genetic Algorithms,1
+1619,5. Rule Learning,5
+1620,3. Probabilistic Methods,3
+1621,3. Probabilistic Methods,3
+1622,3. Probabilistic Methods,3
+1623,1. Genetic Algorithms,1
+1624,Neural Networks,2
+1625,Neural Networks,2
+1626,Reinforcement Learning,4
+1627,Neural Networks,2
+1628,Reinforcement Learning,4
+1629,Neural Networks,2
+1630,5. Rule Learning,5
+1631,Case Based,0
+1632,Neural Networks,2
+1633,Probabilistic Methods,3
+1634,4. Reinforcement Learning,4
+1635,Case Based,0
+1636,3. Probabilistic Methods,3
+1637,5. Rule Learning,5
+1638,Neural Networks,2
+1639,4. Reinforcement Learning,4
+1640,Genetic Algorithms,1
+1641,3. Probabilistic Methods,3
+1642,Neural Networks,2
+1643,4. Reinforcement Learning,4
+1644,Neural Networks,2
+1645,Reinforcement Learning,4
+1646,Neural Networks,2
+1647,Theory,6
+1648,Neural Networks,2
+1649,Reinforcement Learning,4
+1650,5. Rule Learning,5
+1651,Genetic Algorithms,1
+1652,Neural Networks,2
+1653,3,3
+1654,Probabilistic Methods,3
+1655,Case Based,0
+1656,Genetic Algorithms,1
+1657,2. Neural Networks:,2
+1658,Neural Networks,2
+1659,Neural Networks,2
+1660,Theory,6
+1661,Theory,6
+1662,3. Probabilistic Methods,3
+1663,3. Probabilistic Methods,3
+1664,3. Probabilistic Methods,3
+1665,1. Genetic Algorithms,1
+1666,Genetic Algorithms,1
+1667,Case Based,0
+1668,Case Based,0
+1669,Neural Networks,2
+1670,Genetic Algorithms,1
+1671,Reinforcement Learning,4
+1672,Genetic Algorithms,1
+1673,Neural Networks,2
+1674,6. Theory,6
+1675,Theory,6
+1676,Theory,6
+1677,Rule Learning,5
+1678,3. Probabilistic Methods,3
+1679,3. Probabilistic Methods,3
+1680,Neural Networks,2
+1681,Genetic Algorithms,1
+1682,3. Probabilistic Methods,3
+1683,Rule Learning,5
+1684,3. Probabilistic Methods,3
+1685,Neural Networks,2
+1686,1. Genetic Algorithms,1
+1687,Neural Networks,2
+1688,Reinforcement Learning,4
+1689,Neural Networks,2
+1690,1. Genetic Algorithms,1
+1691,3,3
+1692,Probabilistic Methods,3
+1693,Neural Networks,2
+1694,Neural Networks,2
+1695,Rule Learning,5
+1696,Neural Networks,2
+1697,3. Probabilistic Methods,3
+1698,Theory,6
+1699,Genetic Algorithms,1
+1700,Rule Learning,5
+1701,4. Reinforcement Learning,4
+1702,4. Reinforcement Learning,4
+1703,3. Probabilistic Methods,3
+1704,3. Probabilistic Methods,3
+1705,3,3
+1706,Neural Networks,2
+1707,Rule Learning,5
+1708,Neural Networks,2
+1709,Neural Networks,2
+1710,Neural Networks,2
+1711,Neural Networks,2
+1712,2. Neural Networks,2
+1713,Neural Networks,2
+1714,Neural Networks,2
+1715,Neural Networks,2
+1716,Neural Networks,2
+1717,Neural Networks,2
+1718,Neural Networks,2
+1719,Neural Networks,2
+1720,Neural Networks,2
+1721,Neural Networks,2
+1722,Neural Networks,2
+1723,Neural Networks,2
+1724,Neural Networks,2
+1725,Neural Networks,2
+1726,Neural Networks,2
+1727,Neural Networks,2
+1728,Neural Networks,2
+1729,Neural Networks,2
+1730,Neural Networks,2
+1731,Neural Networks,2
+1732,Neural Networks,2
+1733,Neural Networks,2
+1734,Neural Networks,2
+1735,Neural Networks,2
+1736,Neural Networks,2
+1737,Neural Networks,2
+1738,Neural Networks,2
+1739,Neural Networks,2
+1740,Neural Networks,2
+1741,Probabilistic Methods,3
+1742,2. Neural Networks,2
+1743,Neural Networks,2
+1744,Neural Networks,2
+1745,Neural Networks,2
+1746,Neural Networks,2
+1747,Neural Networks,2
+1748,Neural Networks,2
+1749,Neural Networks,2
+1750,Neural Networks,2
+1751,Neural Networks,2
+1752,Neural Networks,2
+1753,Neural Networks,2
+1754,Neural Networks,2
+1755,Neural Networks,2
+1756,Neural Networks,2
+1757,Neural Networks,2
+1758,Neural Networks,2
+1759,Neural Networks,2
+1760,Neural Networks,2
+1761,Neural Networks,2
+1762,Neural Networks,2
+1763,2. Neural Networks,2
+1764,Neural Networks,2
+1765,Neural Networks,2
+1766,Neural Networks,2
+1767,1. Genetic Algorithms,1
+1768,1. Genetic Algorithms,1
+1769,1. Genetic Algorithms,1
+1770,Genetic Algorithms,1
+1771,1. Genetic Algorithms,1
+1772,Genetic Algorithms,1
+1773,Probabilistic Methods,3
+1774,1. Genetic Algorithms,1
+1775,1. Genetic Algorithms,1
+1776,Neural Networks,2
+1777,Genetic Algorithms,1
+1778,1. Genetic Algorithms,1
+1779,Neural Networks,2
+1780,Genetic Algorithms,1
+1781,Neural Networks,2
+1782,Neural Networks,2
+1783,1. Genetic Algorithms,1
+1784,Genetic Algorithms,1
+1785,Genetic Algorithms,1
+1786,1. Genetic Algorithms,1
+1787,3. Probabilistic Methods,3
+1788,Genetic Algorithms,1
+1789,Genetic Algorithms,1
+1790,Genetic Algorithms,1
+1791,1. Genetic Algorithms,1
+1792,Genetic Algorithms,1
+1793,4. Reinforcement Learning,4
+1794,Reinforcement Learning,4
+1795,Reinforcement Learning,4
+1796,4,4
+1797,Genetic Algorithms,1
+1798,Neural Networks,2
+1799,3. Probabilistic Methods,3
+1800,Neural Networks,2
+1801,Neural Networks,2
+1802,Neural Networks,2
+1803,2. Genetic Algorithms,1
+1804,Genetic Algorithms,1
+1805,Neural Networks,2
+1806,3,3
+1807,Reinforcement Learning,4
+1808,Probabilistic Methods,3
+1809,3. Probabilistic Methods,3
+1810,Genetic Algorithms,1
+1811,3. Probabilistic Methods,3
+1812,3,3
+1813,3. Probabilistic Methods,3
+1814,3. Probabilistic Methods,3
+1815,3. Probabilistic Methods,3
+1816,Probabilistic Methods,3
+1817,Reinforcement Learning,4
+1818,3,3
+1819,Probabilistic Methods,3
+1820,3,3
+1821,Neural Networks,2
+1822,3. Probabilistic Methods,3
+1823,3. Probabilistic Methods,3
+1824,Rule Learning,5
+1825,5. Rule Learning,5
+1826,Rule Learning,5
+1827,Rule Learning,5
+1828,Rule Learning,5
+1829,5. Rule Learning,5
+1830,1. Genetic Algorithms,1
+1831,Neural Networks,2
+1832,Neural Networks,2
+1833,Neural Networks,2
+1834,Neural Networks,2
+1835,6,6
+1836,6. Theory,6
+1837,Genetic Algorithms,1
+1838,Case Based,0
+1839,3,3
+1840,Case Based,0
+1841,Case Based,0
+1842,3,3
+1843,3,3
+1844,Probabilistic Methods,3
+1845,Genetic Algorithms,1
+1846,Probabilistic Methods,3
+1847,Theory,6
+1848,Case Based,0
+1849,Theory,6
+1850,Case Based,0
+1851,3,3
+1852,3. Probabilistic Methods,3
+1853,3,3
+1854,3. Probabilistic Methods,3
+1855,3. Probabilistic Methods,3
+1856,Genetic Algorithms,1
+1857,Probabilistic Methods,3
+1858,Probabilistic Methods,3
+1859,3. Probabilistic Methods,3
+1860,3,3
+1861,Neural Networks,2
+1862,3. Probabilistic Methods,3
+1863,Probabilistic Methods,3
+1864,3. Probabilistic Methods,3
+1865,3. Probabilistic Methods,3
+1866,Genetic Algorithms,1
+1867,3. Probabilistic Methods,3
+1868,3. Probabilistic Methods,3
+1869,4. Reinforcement Learning,4
+1870,3,3
+1871,Probabilistic Methods,3
+1872,Probabilistic Methods,3
+1873,3. Probabilistic Methods,3
+1874,3. Probabilistic Methods,3
+1875,3. Probabilistic Methods,3
+1876,3,3
+1877,Probabilistic Methods,3
+1878,5. Rule Learning,5
+1879,Rule Learning,5
+1880,5. Rule Learning,5
+1881,Rule Learning,5
+1882,5. Rule Learning,5
+1883,Rule Learning,5
+1884,5. Rule Learning,5
+1885,5. Rule Learning,5
+1886,Neural Networks,2
+1887,Neural Networks,2
+1888,Neural Networks,2
+1889,Neural Networks,2
+1890,Reinforcement Learning,4
+1891,Case Based,0
+1892,Case Based,0
+1893,Reinforcement Learning,4
+1894,Probabilistic Methods,3
+1895,5. Rule Learning,5
+1896,5. Rule Learning,5
+1897,5. Rule Learning,5
+1898,5. Rule Learning,5
+1899,Rule Learning,5
+1900,Neural Networks,2
+1901,Neural Networks,2
+1902,5. Rule Learning,5
+1903,Rule Learning,5
+1904,Rule Learning,5
+1905,Neural Networks,2
+1906,Case Based,0
+1907,4,4
+1908,Reinforcement Learning,4
+1909,3. Probabilistic Methods,3
+1910,3,3
+1911,3. Probabilistic Methods,3
+1912,Theory,6
+1913,Case Based,0
+1914,6,6
+1915,Rule Learning,5
+1916,Theory,6
+1917,5. Rule Learning,5
+1918,Theory,6
+1919,Theory,6
+1920,3,3
+1921,2. Neural Networks,2
+1922,Case Based,0
+1923,Case Based,0
+1924,Neural Networks,2
+1925,1. Genetic Algorithms,1
+1926,1. Genetic Algorithms,1
+1927,Genetic Algorithms,1
+1928,3,3
+1929,Reinforcement Learning,4
+1930,3. Probabilistic Methods,3
+1931,Probabilistic Methods,3
+1932,3,3
+1933,3. Probabilistic Methods,3
+1934,Probabilistic Methods,3
+1935,3. Probabilistic Methods,3
+1936,3. Probabilistic Methods,3
+1937,1. Genetic Algorithms,1
+1938,Probabilistic Methods,3
+1939,3. Probabilistic Methods,3
+1940,3. Probabilistic Methods,3
+1941,3. Probabilistic Methods,3
+1942,3,3
+1943,3. Probabilistic Methods,3
+1944,3. Probabilistic Methods,3
+1945,3. Probabilistic Methods,3
+1946,3. Probabilistic Methods,3
+1947,3. Probabilistic Methods,3
+1948,3. Probabilistic Methods,3
+1949,3. Probabilistic Methods,3
+1950,3. Probabilistic Methods,3
+1951,3. Probabilistic Methods,3
+1952,3. Probabilistic Methods,3
+1953,5. Rule Learning,5
+1954,3. Probabilistic Methods,3
+1955,3. Neural Networks,2
+1956,5. Rule Learning,5
+1957,2. Neural Networks:,2
+1958,5. Rule Learning,5
+1959,Rule Learning,5
+1960,5. Rule Learning,5
+1961,5. Rule Learning,5
+1962,Rule Learning,5
+1963,5. Rule Learning,5
+1964,Reinforcement Learning,4
+1965,4. Reinforcement Learning,4
+1966,Reinforcement Learning,4
+1967,4. Reinforcement Learning,4
+1968,Reinforcement Learning,4
+1969,4. Reinforcement Learning,4
+1970,Reinforcement Learning,4
+1971,Reinforcement Learning,4
+1972,Neural Networks,2
+1973,5. Rule Learning,5
+1974,Rule Learning,5
+1975,5. Rule Learning,5
+1976,Case Based,0
+1977,3. Probabilistic Methods,3
+1978,3. Probabilistic Methods,3
+1979,3. Probabilistic Methods,3
+1980,Probabilistic Methods,3
+1981,Genetic Algorithms,1
+1982,3. Probabilistic Methods,3
+1983,Genetic Algorithms,1
+1984,Reinforcement Learning,4
+1985,Case Based,0
+1986,3. Probabilistic Methods,3
+1987,3. Probabilistic Methods,3
+1988,3,3
+1989,3,3
+1990,3. Probabilistic Methods,3
+1991,3,3
+1992,Probabilistic Methods,3
+1993,4. Reinforcement Learning,4
+1994,3. Probabilistic Methods,3
+1995,3. Probabilistic Methods,3
+1996,3. Probabilistic Methods,3
+1997,Genetic Algorithms,1
+1998,Genetic Algorithms,1
+1999,Genetic Algorithms,1
+2000,Genetic Algorithms,1
+2001,3. Probabilistic Methods,3
+2002,4. Reinforcement Learning,4
+2003,4. Reinforcement Learning,4
+2004,3. Probabilistic Methods,3
+2005,Probabilistic Methods,3
+2006,3. Probabilistic Methods,3
+2007,3. Probabilistic Methods,3
+2008,3. Probabilistic Methods,3
+2009,Probabilistic Methods,3
+2010,Case Based,0
+2011,Probabilistic Methods,3
+2012,Rule Learning,5
+2013,3,3
+2014,Probabilistic Methods,3
+2015,3,3
+2016,Rule Learning,5
+2017,Reinforcement Learning,4
+2018,Case Based,0
+2019,3,3
+2020,Reinforcement Learning,4
+2021,2. Neural Networks,2
+2022,Rule Learning,5
+2023,Theory,6
+2024,1. Case Based,1
+2025,Rule Learning,5
+2026,Genetic Algorithms,1
+2027,Case Based,0
+2028,Case Based,0
+2029,5. Rule Learning,5
+2030,1. Genetic Algorithms,1
+2031,Genetic Algorithms,1
+2032,3. Probabilistic Methods,3
+2033,2. Genetic Algorithms,1
+2034,1. Genetic Algorithms,1
+2035,1. Genetic Algorithms,1
+2036,3. Probabilistic Methods,3
+2037,Neural Networks,2
+2038,1. Genetic Algorithms,1
+2039,4. Reinforcement Learning,4
+2040,Reinforcement Learning,4
+2041,2. Genetic Algorithms,1
+2042,Reinforcement Learning,4
+2043,4. Reinforcement Learning,4
+2044,4. Reinforcement Learning,4
+2045,Genetic Algorithms,1
+2046,1. Genetic Algorithms,1
+2047,Genetic Algorithms,1
+2048,1. Genetic Algorithms,1
+2049,1. Genetic Algorithms,1
+2050,5. Rule Learning,5
+2051,Case Based,0
+2052,Case Based,0
+2053,2,2
+2054,Case Based,0
+2055,Neural Networks,2
+2056,Case Based,0
+2057,2. Genetic Algorithms,1
+2058,Neural Networks,2
+2059,Neural Networks,2
+2060,Rule Learning,5
+2061,5. Rule Learning,5
+2062,5. Rule Learning,5
+2063,Neural Networks,2
+2064,3. Probabilistic Methods,3
+2065,3,3
+2066,Probabilistic Methods,3
+2067,3. Probabilistic Methods,3
+2068,Rule Learning,5
+2069,Rule Learning,5
+2070,Rule Learning,5
+2071,5. Rule Learning,5
+2072,Case Based,0
+2073,Case Based,0
+2074,Case Based,0
+2075,3,3
+2076,3. Probabilistic Methods,3
+2077,Probabilistic Methods,3
+2078,Genetic Algorithms,1
+2079,Probabilistic Methods,3
+2080,2. Neural Networks,2
+2081,Genetic Algorithms,1
+2082,1. Genetic Algorithms,1
+2083,Neural Networks,2
+2084,Genetic Algorithms,1
+2085,Genetic Algorithms,1
+2086,Genetic Algorithms,1
+2087,Genetic Algorithms,1
+2088,1. Genetic Algorithms,1
+2089,Genetic Algorithms,1
+2090,1. Genetic Algorithms,1
+2091,Probabilistic Methods,3
+2092,Genetic Algorithms,1
+2093,1,1
+2094,1. Genetic Algorithms,1
+2095,1. Genetic Algorithms,1
+2096,Genetic Algorithms,1
+2097,2. Genetic Algorithms,1
+2098,1. Genetic Algorithms,1
+2099,Genetic Algorithms,1
+2100,Theory,6
+2101,Theory,6
+2102,Rule Learning,5
+2103,Genetic Algorithms,1
+2104,5. Rule Learning,5
+2105,Rule Learning,5
+2106,1,1
+2107,1,1
+2108,Genetic Algorithms,1
+2109,Theory,6
+2110,Theory,6
+2111,1. Genetic Algorithms,1
+2112,1. Genetic Algorithms,1
+2113,Neural Networks,2
+2114,1. Genetic Algorithms,1
+2115,Probabilistic Methods,3
+2116,Case Based,0
+2117,3,3
+2118,3. Probabilistic Methods,3
+2119,Probabilistic Methods,3
+2120,Reinforcement Learning,4
+2121,Reinforcement Learning,4
+2122,Reinforcement Learning,4
+2123,1. Genetic Algorithms,1
+2124,3. Probabilistic Methods,3
+2125,Genetic Algorithms,1
+2126,1. Genetic Algorithms,1
+2127,Neural Networks,2
+2128,3. Probabilistic Methods,3
+2129,3,3
+2130,4. Reinforcement Learning,4
+2131,3,3
+2132,Theory,6
+2133,Case Based,0
+2134,Theory,6
+2135,6,6
+2136,Genetic Algorithms,1
+2137,1,1
+2138,1. Genetic Algorithms,1
+2139,3. Probabilistic Methods,3
+2140,3. Probabilistic Methods,3
+2141,3. Probabilistic Methods,3
+2142,3. Probabilistic Methods,3
+2143,Genetic Algorithms,1
+2144,Genetic Algorithms,1
+2145,Genetic Algorithms,1
+2146,Probabilistic Methods,3
+2147,3. Probabilistic Methods,3
+2148,3. Probabilistic Methods,3
+2149,3. Probabilistic Methods,3
+2150,Neural Networks,2
+2151,Case Based,0
+2152,Reinforcement Learning,4
+2153,Theory,6
+2154,Theory,6
+2155,Case Based,0
+2156,Theory,6
+2157,6,6
+2158,6,6
+2159,Theory,6
+2160,Theory,6
+2161,Theory,6
+2162,3,3
+2163,3,3
+2164,3,3
+2165,4. Reinforcement Learning,4
+2166,4. Reinforcement Learning,4
+2167,Neural Networks,2
+2168,Neural Networks,2
+2169,4. Reinforcement Learning,4
+2170,Case Based,0
+2171,Genetic Algorithms,1
+2172,Case Based,0
+2173,Theory,6
+2174,4.,4
+2175,Neural Networks,2
+2176,3. Probabilistic Methods,3
+2177,3. Probabilistic Methods,3
+2178,Reinforcement Learning,4
+2179,Rule Learning,5
+2180,Case Based,0
+2181,Reinforcement Learning,4
+2182,Case Based,0
+2183,Reinforcement Learning,4
+2184,5. Rule Learning,5
+2185,5. Rule Learning,5
+2186,Case Based,0
+2187,Probabilistic Methods,3
+2188,Rule Learning,5
+2189,5. Rule Learning,5
+2190,Theory,6
+2191,3,3
+2192,6. Theory,6
+2193,2. Genetic Algorithms,1
+2194,Probabilistic Methods,3
+2195,Case Based,0
+2196,Case Based,0
+2197,0. Case Based,1
+2198,Neural Networks,2
+2199,2. Neural Networks,2
+2200,Case Based,0
+2201,Neural Networks,2
+2202,2,2
+2203,Reinforcement Learning,4
+2204,3. Probabilistic Methods,3
+2205,3. Probabilistic Methods,3
+2206,Probabilistic Methods,3
+2207,Neural Networks,2
+2208,Neural Networks,2
+2209,Neural Networks,2
+2210,Genetic Algorithms,1
+2211,3. Probabilistic Methods,3
+2212,Neural Networks,2
+2213,3. Probabilistic Methods,3
+2214,3. Probabilistic Methods,3
+2215,3. Probabilistic Methods,3
+2216,3,3
+2217,Rule Learning,5
+2218,3. Probabilistic Methods,3
+2219,Case Based,0
+2220,Neural Networks,2
+2221,Neural Networks,2
+2222,4. Reinforcement Learning,4
+2223,Reinforcement Learning,4
+2224,4. Reinforcement Learning,4
+2225,Reinforcement Learning,4
+2226,Reinforcement Learning,4
+2227,Rule Learning,5
+2228,Case Based,0
+2229,3. Probabilistic Methods,3
+2230,3,3
+2231,Reinforcement Learning,4
+2232,1. Genetic Algorithms,1
+2233,1. Genetic Algorithms,1
+2234,1,1
+2235,Rule Learning,5
+2236,Reinforcement Learning,4
+2237,Reinforcement Learning,4
+2238,Reinforcement Learning,4
+2239,Reinforcement Learning,4
+2240,Reinforcement Learning,4
+2241,3. Probabilistic Methods,3
+2242,3. Probabilistic Methods,3
+2243,4. Reinforcement Learning,4
+2244,3. Probabilistic Methods,3
+2245,3. Probabilistic Methods,3
+2246,3,3
+2247,3. Probabilistic Methods,3
+2248,4. Reinforcement Learning,4
+2249,Reinforcement Learning,4
+2250,4. Reinforcement Learning,4
+2251,1. Genetic Algorithms,1
+2252,Genetic Algorithms,1
+2253,3. Probabilistic Methods,3
+2254,Genetic Algorithms,1
+2255,3,3
+2256,Rule Learning,5
+2257,Neural Networks,2
+2258,3. Probabilistic Methods,3
+2259,4. Reinforcement Learning,4
+2260,4. Reinforcement Learning,4
+2261,Reinforcement Learning,4
+2262,4. Reinforcement Learning,4
+2263,4. Reinforcement Learning,4
+2264,Theory,6
+2265,Reinforcement Learning,4
+2266,Case Based,0
+2267,Rule Learning,5
+2268,3. Probabilistic Methods,3
+2269,Rule Learning,5
+2270,Rule Learning,5
+2271,Rule Learning,5
+2272,Rule Learning,5
+2273,Rule Learning,5
+2274,Theory,6
+2275,5. Rule Learning,5
+2276,3,3
+2277,3,3
+2278,Theory,6
+2279,Neural Networks,2
+2280,3. Probabilistic Methods,3
+2281,3. Probabilistic Methods,3
+2282,Reinforcement Learning,4
+2283,3. Probabilistic Methods,3
+2284,5. Rule Learning,5
+2285,5. Rule Learning,5
+2286,5. Rule Learning,5
+2287,Rule Learning,5
+2288,Rule Learning,5
+2289,Reinforcement Learning,4
+2290,Reinforcement Learning,4
+2291,Reinforcement Learning,4
+2292,Case Based,0
+2293,Theory,6
+2294,4. Reinforcement Learning,4
+2295,Neural Networks,2
+2296,3. Probabilistic Methods,3
+2297,4. Reinforcement Learning,4
+2298,Reinforcement Learning,4
+2299,4,4
+2300,Genetic Algorithms,1
+2301,1. Genetic Algorithms,1
+2302,Reinforcement Learning,4
+2303,3. Probabilistic Methods,3
+2304,Genetic Algorithms,1
+2305,1. Genetic Algorithms,1
+2306,Genetic Algorithms,1
+2307,2. Genetic Algorithms,1
+2308,3,3
+2309,4. Reinforcement Learning,4
+2310,3. Probabilistic Methods,3
+2311,Neural Networks,2
+2312,Case Based,0
+2313,Rule Learning,5
+2314,3. Probabilistic Methods,3
+2315,3. Probabilistic Methods,3
+2316,Neural Networks,2
+2317,3,3
+2318,1. Genetic Algorithms,1
+2319,Probabilistic Methods,3
+2320,Case Based,0
+2321,Neural Networks,2
+2322,1. Genetic Algorithms,1
+2323,2. Neural Networks,2
+2324,3,3
+2325,Genetic Algorithms,1
+2326,5. Rule Learning,5
+2327,1,1
+2328,Genetic Algorithms,1
+2329,Genetic Algorithms,1
+2330,Genetic Algorithms,1
+2331,Genetic Algorithms,1
+2332,Reinforcement Learning,4
+2333,Theory,6
+2334,Neural Networks,2
+2335,Reinforcement Learning,4
+2336,4. Reinforcement Learning,4
+2337,Reinforcement Learning,4
+2338,Probabilistic Methods,3
+2339,Probabilistic Methods,3
+2340,3. Probabilistic Methods,3
+2341,4. Reinforcement Learning,4
+2342,1. Genetic Algorithms,1
+2343,3,3
+2344,Probabilistic Methods,3
+2345,3. Probabilistic Methods,3
+2346,3. Probabilistic Methods,3
+2347,Case Based,0
+2348,1. Genetic Algorithms,1
+2349,4. Reinforcement Learning,4
+2350,Reinforcement Learning,4
+2351,Reinforcement Learning,4
+2352,4. Reinforcement Learning,4
+2353,Reinforcement Learning,4
+2354,Neural Networks,2
+2355,Reinforcement Learning,4
+2356,Reinforcement Learning,4
+2357,Neural Networks,2
+2358,3. Probabilistic Methods,3
+2359,3. Probabilistic Methods,3
+2360,Probabilistic Methods,3
+2361,Neural Networks,2
+2362,Reinforcement Learning,4
+2363,5. Rule Learning,5
+2364,Case Based,0
+2365,Neural Networks,2
+2366,Neural Networks,2
+2367,3,3
+2368,Probabilistic Methods,3
+2369,3. Probabilistic Methods,3
+2370,3. Probabilistic Methods,3
+2371,3. Probabilistic Methods,3
+2372,Neural Networks,2
+2373,3. Probabilistic Methods,3
+2374,Rule Learning,5
+2375,Rule Learning,5
+2376,Reinforcement Learning,4
+2377,Neural Networks,2
+2378,4. Reinforcement Learning,4
+2379,Reinforcement Learning,4
+2380,Reinforcement Learning,4
+2381,1. Genetic Algorithms,1
+2382,Reinforcement Learning,4
+2383,Reinforcement Learning,4
+2384,Case Based,0
+2385,Rule Learning,5
+2386,Reinforcement Learning,4
+2387,Reinforcement Learning,4
+2388,Genetic Algorithms,1
+2389,Neural Networks,2
+2390,Neural Networks,2
+2391,Neural Networks,2
+2392,Neural Networks,2
+2393,Reinforcement Learning,4
+2394,Theory,6
+2395,Theory,6
+2396,Theory,6
+2397,Theory,6
+2398,Neural Networks,2
+2399,4. Reinforcement Learning,4
+2400,Neural Networks,2
+2401,4. Reinforcement Learning,4
+2402,3. Probabilistic Methods,3
+2403,Probabilistic Methods,3
+2404,3,3
+2405,Rule Learning,5
+2406,Reinforcement Learning,4
+2407,5. Rule Learning,5
+2408,Neural Networks,2
+2409,3. Probabilistic Methods,3
+2410,3. Probabilistic Methods,3
+2411,1. Genetic Algorithms,1
+2412,3,3
+2413,Neural Networks,2
+2414,Probabilistic Methods,3
+2415,Neural Networks,2
+2416,Reinforcement Learning,4
+2417,Reinforcement Learning,4
+2418,Case Based,0
+2419,Neural Networks,2
+2420,3. Probabilistic Methods,3
+2421,Neural Networks,2
+2422,3,3
+2423,Theory,6
+2424,Case Based,0
+2425,Neural Networks,2
+2426,Probabilistic Methods,3
+2427,5. Rule Learning,5
+2428,3. Probabilistic Methods,3
+2429,Reinforcement Learning,4
+2430,3. Probabilistic Methods,3
+2431,Reinforcement Learning,4
+2432,Reinforcement Learning,4
+2433,Neural Networks,2
+2434,4. Reinforcement Learning,4
+2435,Reinforcement Learning,4
+2436,Rule Learning,5
+2437,Probabilistic Methods,3
+2438,3,3
+2439,Neural Networks,2
+2440,Neural Networks,2
+2441,2. Neural Networks,2
+2442,Neural Networks,2
+2443,Neural Networks,2
+2444,Neural Networks,2
+2445,Neural Networks,2
+2446,3. Probabilistic Methods,3
+2447,Neural Networks,2
+2448,Neural Networks,2
+2449,3,3
+2450,Neural Networks,2
+2451,Neural Networks,2
+2452,Neural Networks,2
+2453,Case Based,0
+2454,Theory,6
+2455,4.,4
+2456,Neural Networks,2
+2457,Theory,6
+2458,6,6
+2459,Neural Networks,2
+2460,2. Neural Networks,2
+2461,6. Theory,6
+2462,3. Probabilistic Methods,3
+2463,Reinforcement Learning,4
+2464,4. Reinforcement Learning,4
+2465,4. Reinforcement Learning,4
+2466,2. Neural Networks,2
+2467,Rule Learning,5
+2468,Neural Networks,2
+2469,Case Based,0
+2470,3.,3
+2471,3. Probabilistic Methods,3
+2472,1. Genetic Algorithms,1
+2473,4,4
+2474,4,4
+2475,3. Probabilistic Methods,3
+2476,Neural Networks,2
+2477,Neural Networks,2
+2478,1. Genetic Algorithms,1
+2479,Theory,6
+2480,Theory,6
+2481,Rule Learning,5
+2482,3. Probabilistic Methods,3
+2483,4. Reinforcement Learning,4
+2484,4. Reinforcement Learning,4
+2485,3,3
+2486,3,3
+2487,Genetic Algorithms,1
+2488,Genetic Algorithms,1
+2489,3. Probabilistic Methods,3
+2490,Reinforcement Learning,4
+2491,5. Rule Learning,5
+2492,Neural Networks,2
+2493,3. Probabilistic Methods,3
+2494,Probabilistic Methods,3
+2495,Probabilistic Methods,3
+2496,Reinforcement Learning,4
+2497,5. Rule Learning,5
+2498,Reinforcement Learning,4
+2499,Case Based,0
+2500,3. Probabilistic Methods,3
+2501,3. Probabilistic Methods,3
+2502,Case Based,0
+2503,Neural Networks,2
+2504,Genetic Algorithms,1
+2505,1. Genetic Algorithms,1
+2506,5. Rule Learning,5
+2507,Neural Networks,2
+2508,3. Probabilistic Methods,3
+2509,4. Reinforcement Learning,4
+2510,Rule Learning,5
+2511,Neural Networks,2
+2512,Neural Networks,2
+2513,3. Probabilistic Methods,3
+2514,Neural Networks,2
+2515,Neural Networks,2
+2516,Rule Learning,5
+2517,Rule Learning,5
+2518,Neural Networks,2
+2519,3. Probabilistic Methods,3
+2520,Reinforcement Learning,4
+2521,3. Probabilistic Methods,3
+2522,Neural Networks,2
+2523,Neural Networks,2
+2524,4. Reinforcement Learning,4
+2525,Neural Networks,2
+2526,Case Based,0
+2527,2. Neural Networks,2
+2528,Rule Learning,5
+2529,3. Probabilistic Methods,3
+2530,Neural Networks,2
+2531,3. Probabilistic Methods,3
+2532,Genetic Algorithms,1
+2533,Probabilistic Methods,3
+2534,Probabilistic Methods,3
+2535,Probabilistic Methods,3
+2536,Reinforcement Learning,4
+2537,1. Genetic Algorithms,1
+2538,Reinforcement Learning,4
+2539,3. Probabilistic Methods,3
+2540,3. Probabilistic Methods,3
+2541,1,1
+2542,3. Probabilistic Methods,3
+2543,Probabilistic Methods,3
+2544,2,2
+2545,Case Based,0
+2546,Neural Networks,2
+2547,4. Reinforcement Learning,4
+2548,4. Reinforcement Learning,4
+2549,4. Reinforcement Learning,4
+2550,3,3
+2551,3. Probabilistic Methods,3
+2552,3,3
+2553,Rule Learning,5
+2554,Neural Networks,2
+2555,3. Probabilistic Methods,3
+2556,Neural Networks,2
+2557,Neural Networks,2
+2558,Neural Networks,2
+2559,Probabilistic Methods,3
+2560,Neural Networks,2
+2561,Neural Networks,2
+2562,Theory,6
+2563,Reinforcement Learning,4
+2564,Reinforcement Learning,4
+2565,3. Probabilistic Methods,3
+2566,3. Probabilistic Methods,3
+2567,3. Probabilistic Methods,3
+2568,3. Probabilistic Methods,3
+2569,3,3
+2570,3. Probabilistic Methods,3
+2571,3. Probabilistic Methods,3
+2572,3. Probabilistic Methods,3
+2573,3. Probabilistic Methods,3
+2574,3,3
+2575,Case Based,0
+2576,2. Neural Networks,2
+2577,Neural Networks,2
+2578,3. Probabilistic Methods,3
+2579,3. Probabilistic Methods,3
+2580,Neural Networks,2
+2581,2. Neural Networks,2
+2582,3. Probabilistic Methods,3
+2583,1. Genetic Algorithms,1
+2584,Neural Networks,2
+2585,Neural Networks,2
+2586,5. Rule Learning,5
+2587,4. Reinforcement Learning,4
+2588,3. Probabilistic Methods,3
+2589,3. Probabilistic Methods,3
+2590,3. Probabilistic Methods,3
+2591,1. Genetic Algorithms,1
+2592,5. Rule Learning,5
+2593,Neural Networks,2
+2594,Reinforcement Learning,4
+2595,3. Probabilistic Methods,3
+2596,Neural Networks,2
+2597,Neural Networks,2
+2598,Genetic Algorithms,1
+2599,3. Probabilistic Methods,3
+2600,3,3
+2601,3. Probabilistic Methods,3
+2602,Probabilistic Methods,3
+2603,2. Neural Networks,2
+2604,Theory,6
+2605,3,3
+2606,3,3
+2607,Neural Networks,2
+2608,Theory,6
+2609,3. Probabilistic Methods,3
+2610,3. Probabilistic Methods,3
+2611,Probabilistic Methods,3
+2612,2. Neural Networks,2
+2613,3. Probabilistic Methods,3
+2614,Neural Networks,2
+2615,3. Probabilistic Methods,3
+2616,2. Neural Networks,2
+2617,4. Reinforcement Learning,4
+2618,Neural Networks,2
+2619,Neural Networks,2
+2620,Case Based,0
+2621,5. Rule Learning,5
+2622,6,6
+2623,Reinforcement Learning,4
+2624,2. Neural Networks,2
+2625,Neural Networks,2
+2626,Neural Networks,2
+2627,Neural Networks,2
+2628,Rule Learning,5
+2629,3. Probabilistic Methods,3
+2630,2,2
+2631,4. Reinforcement Learning,4
+2632,3. Probabilistic Methods,3
+2633,3,3
+2634,3,3
+2635,Probabilistic Methods,3
+2636,3,3
+2637,4. Reinforcement Learning,4
+2638,Theory,6
+2639,2. Neural Networks,2
+2640,Reinforcement Learning,4
+2641,Neural Networks,2
+2642,Neural Networks,2
+2643,Neural Networks,2
+2644,5. Rule Learning,5
+2645,Reinforcement Learning,4
+2646,Reinforcement Learning,4
+2647,Reinforcement Learning,4
+2648,Reinforcement Learning,4
+2649,Theory,6
+2650,3. Probabilistic Methods,3
+2651,2. Neural Networks,2
+2652,Neural Networks,2
+2653,1,1
+2654,Neural Networks,2
+2655,Neural Networks,2
+2656,Neural Networks,2
+2657,Neural Networks,2
+2658,Neural Networks,2
+2659,2. Neural Networks,2
+2660,2. Neural Networks,2
+2661,2. Neural Networks,2
+2662,4. Reinforcement Learning,4
+2663,Neural Networks,2
+2664,3,3
+2665,Reinforcement Learning,4
+2666,Reinforcement Learning,4
+2667,3. Probabilistic Methods,3
+2668,Probabilistic Methods,3
+2669,Case Based,0
+2670,4. Reinforcement Learning,4
+2671,4. Reinforcement Learning,4
+2672,4. Reinforcement Learning,4
+2673,4. Reinforcement Learning,4
+2674,4. Reinforcement Learning,4
+2675,Reinforcement Learning,4
+2676,3,3
+2677,4. Reinforcement Learning,4
+2678,4. Reinforcement Learning,4
+2679,4. Reinforcement Learning,4
+2680,Reinforcement Learning,4
+2681,4. Reinforcement Learning,4
+2682,4. Reinforcement Learning,4
+2683,Reinforcement Learning,4
+2684,Reinforcement Learning,4
+2685,Neural Networks,2
+2686,3. Probabilistic Methods,3
+2687,3. Probabilistic Methods,3
+2688,3. Probabilistic Methods,3
+2689,Neural Networks,2
+2690,Theory,6
+2691,Neural Networks,2
+2692,3. Probabilistic Methods,3
+2693,3. Probabilistic Methods,3
+2694,4. Reinforcement Learning,4
+2695,Reinforcement Learning,4
+2696,Reinforcement Learning,4
+2697,1. Genetic Algorithms,1
+2698,3. Probabilistic Methods,3
+2699,Neural Networks,2
+2700,3,3
+2701,3,3
+2702,Probabilistic Methods,3
+2703,3. Probabilistic Methods,3
+2704,3. Probabilistic Methods,3
+2705,Neural Networks,2
+2706,3. Probabilistic Methods,3
+2707,3. Probabilistic Methods,3
