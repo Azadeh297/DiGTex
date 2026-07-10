@@ -21,12 +21,12 @@
 ```
 python lm1.py 'cora' 
 ```
-## step2: employs an LLM to generate pseudo-labels 
+## step2: employ a LLM to generate pseudo-labels 
 
 ```
 python llm1_1.py 'cora' 'Llama3:8b' 'Minimalist'
 ```
-## step3: employs an LLM to generate reasons
+## step3: employ a LLM to generate reasons
 
 ```
 python llm1_2.py 'cora' 'Llama3:8b' path_pseudo_Label
