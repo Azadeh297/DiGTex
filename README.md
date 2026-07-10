@@ -29,17 +29,14 @@ python llm1_1.py 'cora' 'Llama3:8b' 'Minimalist'
 ## step3: employs an LLM to generate reasons
 
 ```
-python llm1_2.py 'cora' 'Llama3:8b' 
+python llm1_2.py 'cora' 'Llama3:8b' path_pseudo_Label
 ```
 ## Training and then save embeddings for BiGTex and ogbn-arxiv
 
 ```
 python main.py 'arxiv' 'BiGTex'
 ```
-you can run for other dataset: 'cora', 'pubmed', 'products', 'arxiv_2023'
-or other models: 'MLP', 'GCN', 'GAT', 'SAGE'
 
-## BiGTex embeddings
-You can download the generated embeddings by BiGTex [here ](https://drive.google.com/file/d/1RKJEHeN_lhO7drEd4KlofAqiTqmzSWEE/view?usp=drive_link).
-unzip and move them to `embeddings`, so you can run more experiments like link prediction or clusstering using them.
+
+
 
